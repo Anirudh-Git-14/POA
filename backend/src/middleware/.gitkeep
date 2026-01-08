@@ -1,0 +1,4 @@
+# Middleware
+- auth.js - Wallet signature verification
+- validation.js - Request validation
+- errorHandler.js - Error handling middleware

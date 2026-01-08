@@ -1,0 +1,4 @@
+# Custom Hooks
+- useWallet.js - MetaMask wallet connection
+- useAttention.js - Attention tracking logic
+- usePOA.js - POA token management

@@ -1,0 +1,3 @@
+# Data Models
+- attentionSession.js - Attention session schema
+- poaProof.js - POA proof data structure

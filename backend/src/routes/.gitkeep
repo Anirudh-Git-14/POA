@@ -1,0 +1,4 @@
+# API Routes
+- attention.js - Attention tracking endpoints
+- poa.js - POA management endpoints
+- ipfs.js - IPFS proxy endpoints

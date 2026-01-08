@@ -1,0 +1,4 @@
+# Services
+- api.js - Backend API calls
+- blockchain.js - Smart contract interactions
+- ipfs.js - IPFS helper functions

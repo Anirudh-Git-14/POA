@@ -1,0 +1,3 @@
+# Deployment Scripts
+- deploy.js - Contract deployment script
+- verify.js - Contract verification script

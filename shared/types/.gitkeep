@@ -1,0 +1,4 @@
+# Type Definitions
+- attention.ts - Attention tracking types
+- poa.ts - POA token types
+- api.ts - API request/response types

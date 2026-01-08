@@ -1,0 +1,14 @@
+{
+  "name": "poa-dapp",
+  "version": "0.1.0",
+  "description": "Proof-of-Attention Web3 dApp",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "contracts"
+  ],
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install && cd ../contracts && npm install"
+  }
+}

@@ -1,0 +1,5 @@
+# Controllers
+Business logic for handling requests
+- attentionController.js - Attention validation logic
+- poaController.js - POA generation logic
+- botDetectionController.js - Bot detection algorithms

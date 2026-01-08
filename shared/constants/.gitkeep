@@ -1,0 +1,2 @@
+# Constants
+- config.js - Shared configuration (min attention time, heartbeat interval, etc.)

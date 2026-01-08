@@ -1,0 +1,50 @@
+POA/
+│
+├── 📁 frontend/                    # React.js User Interface
+│   ├── src/
+│   │   ├── components/            # Reusable UI components
+│   │   ├── pages/                 # Full page views
+│   │   ├── services/              # API & blockchain calls
+│   │   ├── hooks/                 # Custom React hooks
+│   │   ├── contexts/              # Global state providers
+│   │   ├── utils/                 # Helper functions
+│   │   ├── App.js                 # Main app component
+│   │   └── index.js               # React entry point
+│   ├── public/                    # Static assets
+│   ├── package.json               # Frontend dependencies
+│   └── README.md                   # Frontend docs
+│
+├── 📁 backend/                     # Node.js API Server
+│   ├── src/
+│   │   ├── routes/                # API endpoint definitions
+│   │   ├── controllers/           # Business logic handlers
+│   │   ├── services/              # External integrations (IPFS, blockchain)
+│   │   ├── middleware/            # Request validation, auth
+│   │   ├── models/                # Data structures
+│   │   ├── utils/                 # Helper functions
+│   │   └── server.js              # Express app entry point
+│   ├── config/                    # Configuration files
+│   ├── package.json               # Backend dependencies
+│   └── README.md                  # Backend docs
+│
+├── 📁 contracts/                   # Solidity Smart Contracts
+│   ├── contracts/                 # Solidity source files
+│   ├── scripts/                   # Deployment scripts
+│   ├── test/                      # Contract tests
+│   ├── hardhat.config.js          # Hardhat configuration
+│   ├── package.json               # Contract dependencies
+│   └── README.md                  # Contracts docs
+│
+├── 📁 shared/                      # Shared Code
+│   ├── types/                     # Type definitions
+│   ├── constants/                 # Shared constants
+│   └── utils/                     # Shared utilities
+│
+├── 📁 docs/                        # Additional Documentation
+│
+├── .gitignore                     # Git ignore rules
+├── package.json                   # Root workspace config
+├── README.md                      # Main project readme
+├── ARCHITECTURE.md                # System architecture
+├── PROJECT_STRUCTURE.md           # Detailed structure guide
+└── FOLDER_EXPLANATION.md          # Folder responsibilities

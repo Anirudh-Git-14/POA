@@ -1,0 +1,5 @@
+# Services
+External service integrations
+- ipfsService.js - IPFS client wrapper
+- blockchainService.js - Smart contract interaction
+- validationService.js - Data validation utilities
